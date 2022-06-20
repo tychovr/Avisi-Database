@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Avisii_backend.Models
+namespace Avisi_backend.Models
 {
     public class User
     {
